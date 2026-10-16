@@ -16,7 +16,7 @@ export function PrinciplesSection() {
     {
       number: "01",
       titleParts: [
-        { text: "INTERFACE", highlight: true },
+        { text: "MSTRMND", highlight: true },
         { text: " MINIMALISM", highlight: false },
       ],
       description: "Reduce until only the essential remains. Every element earns its place.",
